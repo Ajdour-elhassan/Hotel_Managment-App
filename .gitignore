@@ -129,10 +129,8 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-# Pyre type checker
+
 .pyre/
 
-# pytype static type analyzer
 .pytype/
 
-# End of https://www.toptal.com/developers/gitignore/api/django
